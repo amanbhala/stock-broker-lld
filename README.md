@@ -1,0 +1,1 @@
+- Definitions should be in cpp file and declarations should be in hpp file.
